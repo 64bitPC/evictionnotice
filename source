@@ -1,4 +1,4 @@
 while wait() do
   game:GetService("ReplicatedStorage").Hub.Join:InvokeServer()
-  print("HAVE FUN!")
+  print("An Invoke to the path: game.ReplicatedStorge.Hub.Join has been made.")
 end
